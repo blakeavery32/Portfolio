@@ -16,6 +16,11 @@ h3{
 	text-align: center;
 }
 
+.img-rounded{
+	height: 200px;
+	width: 200px;
+}
+
 .contact-section{
 	padding-bottom: 75px;
 }
