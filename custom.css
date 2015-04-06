@@ -1,7 +1,7 @@
 body {
 	margin-bottom: 20px;
 	margin-top: 50px;
-	background-color: #3498db
+	background-color: #3498db;
 }
 
 img{
@@ -82,6 +82,11 @@ img.center-line{
 .contact-section{
 	padding-bottom: 75px;
 	text-align: center;
+}
+
+.modal.fade{
+	text-align: left;
+	color: #3498db;
 }
 
 .grid a {
