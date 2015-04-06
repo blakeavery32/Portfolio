@@ -6,6 +6,7 @@ body {
 
 img{
 	padding: 10px;
+	text-align: center;
 }
 
 h1{
@@ -21,9 +22,68 @@ h3{
 	width: 200px;
 }
 
+.img-rounded-carousel{
+	height: 300px;
+	width: 300px;
+}
+
+.img-rounded-consulting1{
+	height: 230px;
+	width:230px;
+}
+
+.img-rounded-consulting2{
+	height: 300px;
+	width:300px;
+}
+
+.img-rounded-consulting3{
+	height: 260px;
+	width:260px;
+}
+
+.img-rounded-consulting4{
+	height: 300px;
+	width:300px;
+}
+
+img.center-large{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+	width: 500px;
+}
+
+img.center-small{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 250px;
+	width: 350px;
+}
+
+img.center-me{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 400px;
+	width: 300px;
+}
+
+img.center-line{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	height: 300px;
+	width: 400px;
+}
+
 .contact-section{
 	padding-bottom: 75px;
+	text-align: center;
 }
+
 .grid a {
 	float: left;
 	max-width: 250px;
