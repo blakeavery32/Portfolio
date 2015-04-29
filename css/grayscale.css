@@ -93,6 +93,36 @@ span.call{
     color: white;
 }
 
+img.wide{
+    height: 200px;
+    width: 300px;
+}
+
+img.tall{
+    height: 300px;
+    width: 200px;
+}
+
+img.facts{
+    height: 250px;
+    width: 300px;
+}
+
+img.why{
+    height: 270px;
+    width: 200px;
+}
+
+img.roosevelt{
+    height: 300px;
+    width: 400px;
+}
+
+img.portrait{
+    height: 150px;
+    width: 150px;
+}
+
 @media(min-width:768px) {
     p {
         margin: 0 0 35px;
